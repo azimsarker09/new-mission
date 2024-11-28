@@ -1,0 +1,27 @@
+.greeting{
+    font-family: "Merriweather", serif;
+    background-image: url(../resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+   
+}
+
+.greeting-container{
+    text-align: center;
+    width: 632px;
+    height: 246px;
+    margin-left: 484px;
+    margin-top: 227px;
+    
+}
+
+.greeting-first-title{
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.greeting-second-title{
+    color: #ffffff;
+    font-size: 72px;
+}
